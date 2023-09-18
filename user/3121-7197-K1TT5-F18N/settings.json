@@ -10,19 +10,19 @@
         custom_speed_min: 750,
         custom_speed_max: 1430
     },
-    render = {
+    render: {
         bar_status: false,
         availableTuning: false,
         printChanse: false,
         barX: 10,
         barY: 400
     },
-    other = {
-        fixCEF = false,
-        heavy = false,
-        autoExit = false,
-        ArrowFixPassager = false,
-        command = "tuning",
-        codeActivation = "null"
+    other: {
+        fixCEF: false,
+        heavy: false,
+        autoExit: false,
+        ArrowFixPassager: false,
+        command: "tuning",
+        codeActivation: "null"
     }
 }
