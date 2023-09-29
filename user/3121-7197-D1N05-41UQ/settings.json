@@ -1,0 +1,25 @@
+{
+    "general": {
+        "AutoBuy": false,
+        "AutoBox": false,
+        "Safety": false,
+        "MouseMode": false,
+        "SpeedInt": 0,
+        "StyleInt": 0,
+        "CustomSpeedMIN": 700,
+        "CustomSpeedMAX": 1400,
+        "TuningBytes": {}
+    },
+    "render": {
+        "state": false,
+        "posX": 10,
+        "posY": 10,
+        "chanse": false
+    },
+    "other": {
+        "heavy": false,
+        "cmd": "tuning",
+        "cef": false,
+        "exit": false
+    }
+}
