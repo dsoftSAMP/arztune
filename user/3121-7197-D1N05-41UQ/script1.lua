@@ -1,7 +1,5 @@
-function main()
-  while not isSampAvailable() do wait(0) end
-
-  sampAddChatMessage("Привет гамосячка!", -1)
-
-  wait(-1)
+function test()
+  sampShowDialog(1,"213","asafd","ok","no",0)
 end
+
+test()
