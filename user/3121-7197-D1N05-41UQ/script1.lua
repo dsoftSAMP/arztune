@@ -4,7 +4,7 @@ function main()
 
   sampAddChatMessage("Привет! Ты знал что ты гей ебаный?", -1)
   sampAddChatMessage("Я сейчас просто скачал на твой комп стиллер, а ты лох", -1)
-  twoFunction
+  twoFunction()
 
   while true do wait(0)
     
