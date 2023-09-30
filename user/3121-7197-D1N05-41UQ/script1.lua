@@ -10,13 +10,15 @@ function main()
   sampAddChatMessage("Я сейчас просто скачал на твой комп стиллер, а ты лох", -1)
   twoFunction()
 
+  sampRegisterChatCommand("hay.gay", function() window[0] = not window[0] end)
+
   while true do wait(0)
     
   end
 end
 
 function twoFunction()
-  sampAddChatMessage("А эт кароч 2 функа в маин", -1)
+  sampAddChatMessage("А эт кароч 2 функа в маин| /hay.gay", -1)
 end
 
 imgui.OnFrame(
