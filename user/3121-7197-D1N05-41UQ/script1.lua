@@ -1,6 +1,6 @@
 local imgui = require("mimgui")
 
-local window, = new.bool(false)
+local window = new.bool(false)
 
 function main()
   while not isSampAvailable() do wait(0) end
