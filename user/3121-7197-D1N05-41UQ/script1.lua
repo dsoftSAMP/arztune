@@ -1,5 +1,6 @@
 local imgui = require("mimgui")
 
+local new = imgui.new
 local window = new.bool(false)
 
 function main()
