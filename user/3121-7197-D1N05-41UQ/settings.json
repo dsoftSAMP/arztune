@@ -1,1 +1,1 @@
-{"general":{"SpeedInt":1,"TuningBytes":{},"CustomSpeedMIN":700,"Safety":true,"AutoBox":true,"CustomSpeedMAX":1400,"AutoBuy":true,"StyleInt":1,"MouseMode":false},"render":{"state":false,"chanse":false,"posX":10,"posY":10},"other":{"heavy":false,"cmd":"tuning","exit":false,"cef":false}}
+{"general":{"SpeedInt":1,"TuningBytes":{},"MouseMode":false,"CustomSpeedMIN":700,"AutoBox":true,"CustomSpeedMAX":1400,"AutoBuy":true,"StyleInt":1,"Safety":true},"render":{"state":false,"chanse":false,"posX":10,"posY":10},"other":{"heavy":false,"cmd":"tuning","exit":false,"cef":false}}
