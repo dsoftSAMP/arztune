@@ -20,6 +20,7 @@
         "script": {
             "url": "https://github.com/KerreLProd/arztune/raw/main/script.luac",
             "ver-num": 24,
+            "TI_ICONS_VERSION": "2.38.0",
             "version": "2.4 release",
             "changes": {
                 "1": "Немного обновлён внешний вид, стал более понятным.",
